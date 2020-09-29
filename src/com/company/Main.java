@@ -14,7 +14,7 @@ public class Main {
 	c[6] = new Student("Cтас", 2.1);
 	c[7] = new Student("Вика", 3.7);
 	c[8] = new Student("Настя", 4.0);
-	c[5] = new Student("Валерий Жмышенко", 5);
+	c[5] = new Student("Валерий", 5);
 	c[9] = new Student("Данила", 4.7);
 	((Student)c[5]).print();
 	new App();
